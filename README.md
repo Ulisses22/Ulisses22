@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  - 👋 Hi, I’m Ulisses Alves,
+  
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-  **Full Stack Developer and Software Engineering student**
+  
 </div>
-
+- 👋 Hi, I’m Ulisses Alves,**Full Stack Developer and Software Engineering student**
 - 💼 In my job I currently use **Nodejs, Angular and SQL**
 - 👀 Interested in **Python, Nodejs, Backend, Javascript, Data analysis, Security**...
 - 🌱 I’m currently learning **Vue** ...
