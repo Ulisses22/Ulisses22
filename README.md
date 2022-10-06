@@ -12,7 +12,7 @@
     </h1>
 </div>
 
-### :man_technologist: Languages and Tools :
+### :man_technologist: About me :
 - 🦾 I’m Ulisses Alves,**Full Stack Developer and Software Engineering student**
 - 💼 In my job I currently use **Nodejs, Angular and SQL**
 - 👀 Interested in **Python, Nodejs, Backend, Javascript, Data analysis, Security**...
