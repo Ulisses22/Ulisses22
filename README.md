@@ -13,7 +13,7 @@
 </div>
 
 ### :man_technologist: Languages and Tools :
-- :mechanical_arm I’m Ulisses Alves,**Full Stack Developer and Software Engineering student**
+- 🦾 I’m Ulisses Alves,**Full Stack Developer and Software Engineering student**
 - 💼 In my job I currently use **Nodejs, Angular and SQL**
 - 👀 Interested in **Python, Nodejs, Backend, Javascript, Data analysis, Security**...
 - 🌱 I’m currently learning **Vue** ...
