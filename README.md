@@ -13,10 +13,10 @@
 </div>
 
 ### :man_technologist: About me :
-- 🦾 I’m Ulisses Alves, **Full Stack Developer and 2nd year Software Engineer student**
+- 🦾 I’m Ulisses Alves, **Full Stack Developer and 3nd year Software Engineer student**
 - 💼 In my job I currently use **Nodejs, Angular, Python and SQL**
-- 👀 Interested in **Python, Nodejs, Backend, Javascript, Data analysis, Security**...
-- 🌱 I’m currently learning **Jenkins** and ****
+- 👀 Interested in **Backend, Data analysis, Security**
+- 🌱 I’m currently learning **Jenkins** and **Hibernate**
 -  📫 Contact me on https://www.linkedin.com/in/funalves/
 
 ### :hammer_and_wrench: Languages and Tools :
