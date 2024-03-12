@@ -16,8 +16,8 @@
 - 🦾 I’m Ulisses Alves, **Full Stack Developer and 2nd year Software Engineer student**
 - 💼 In my job I currently use **Nodejs, Angular, Python and SQL**
 - 👀 Interested in **Python, Nodejs, Backend, Javascript, Data analysis, Security**...
-- 🌱 I’m currently learning **Jenkins** ...
--  📫 Contact me ulissesnetofreitasalves+github@gmail.com or https://www.linkedin.com/in/funalves/ ...
+- 🌱 I’m currently learning **Jenkins** and ****
+-  📫 Contact me on https://www.linkedin.com/in/funalves/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
