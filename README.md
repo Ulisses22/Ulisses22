@@ -14,10 +14,10 @@
 
 ### :man_technologist: About me :
 - 🦾 I’m Ulisses, **Full Stack Developer and 3nd year Software Engineer student**
-- 💼 In my job I currently use **Nodejs, Angular, Python and SQL**
+- 💼 In my job I currently use **Nodejs, Angular, Java Spring Boot and SQL**
 - 👀 Interested in **Backend, Data analysis, Security**
-- 🌱 I’m currently learning **Jenkins** and **Hibernate**
--  📫 Contact me on https://www.linkedin.com/in/funalves/
+- 🌱 I’m currently learning **Jenkins**
+-  📫 Contact me on https://ulissesalves.netlify.app/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
