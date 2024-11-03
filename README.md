@@ -13,7 +13,7 @@
 </div>
 
 ### :man_technologist: About me :
-- 🦾 I’m Ulisses, **Full Stack Developer and 3nd year Software Engineer student**
+- 🦾 I’m Ulisses, **Software Developer**
 - 💼 In my job I currently use **Nodejs, Angular, Java Spring Boot and SQL**
 - 👀 Interested in **Backend, Data analysis, Security**
 - 🌱 I’m currently learning **Jenkins**
