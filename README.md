@@ -13,7 +13,7 @@
 </div>
 
 ### :man_technologist: About me :
-- 🦾 I’m Ulisses, **Software Developer**
+- 🦾 I’m Ulisses, a **Software Developer**
 - 💼 In my job I currently use **Nodejs, Angular, Java Spring Boot and SQL**
 - 👀 Interested in **Backend, Data analysis, Security**
 - 🌱 I’m currently learning **Kubernetes**
