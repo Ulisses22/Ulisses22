@@ -17,7 +17,7 @@
 - 💼 In my job I currently use **Nodejs, Angular, Java Spring Boot and SQL**
 - 👀 Interested in **Backend, Data analysis, Security**
 - 🌱 I’m currently learning **Kubernetes**
--  📫 Contact me on [http://ulissesalves.ch/]http://ulissesalves.ch/
+-  📫 Contact me on http://ulissesalves.ch/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
