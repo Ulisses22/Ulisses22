@@ -16,8 +16,8 @@
 - 🦾 I’m Ulisses, **Software Developer**
 - 💼 In my job I currently use **Nodejs, Angular, Java Spring Boot and SQL**
 - 👀 Interested in **Backend, Data analysis, Security**
-- 🌱 I’m currently learning **Jenkins**
--  📫 Contact me on https://ulissesalves.netlify.app/
+- 🌱 I’m currently learning **Kubernetes**
+-  📫 Contact me on [http://ulissesalves.ch/]http://ulissesalves.ch/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
